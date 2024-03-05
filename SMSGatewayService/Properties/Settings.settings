@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SMSGatewayService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TnmID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="AirtelID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="SendFrom" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">322</Value>
+    </Setting>
+    <Setting Name="SMSEntitiesConnectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">data source=10.40.1.43;initial catalog=SMS_Gateway;integrated security=False;user id=svc_vas;password=Nbsvas01;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
